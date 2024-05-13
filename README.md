@@ -1,4 +1,3 @@
 # dio-java-basico
-Repositório criado para armazenar todo o conteúdo do curso de Java básico oferecido pelo bootcamp da DIO + Santander
+Repositório criado para armazenar todo o conteúdo do curso de Java básico oferecido pelo bootcamp da DIO + Santander e executar testes.
 
-Alterando o conteúdo de um arquivo de forma local!
