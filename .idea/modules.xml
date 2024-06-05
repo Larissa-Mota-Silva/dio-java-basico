@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/desafios/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/desafios/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/desafios/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulas/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/aulas/java-anatomia-classes/java-anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulas/java-cases/java-cases.iml" filepath="$PROJECT_DIR$/aulas/java-cases/java-cases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulas/java-controle-fluxo/java-controle-fluxo.iml" filepath="$PROJECT_DIR$/aulas/java-controle-fluxo/java-controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulas/java-exercicio-metodos/java-exercicio-metodos.iml" filepath="$PROJECT_DIR$/aulas/java-exercicio-metodos/java-exercicio-metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulas/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/aulas/java-terminal/java-terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulas/java-tipos-variaveis/java-tipos-variaveis.iml" filepath="$PROJECT_DIR$/aulas/java-tipos-variaveis/java-tipos-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulas/meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml" filepath="$PROJECT_DIR$/aulas/meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml" />
+    </modules>
+  </component>
+</project>

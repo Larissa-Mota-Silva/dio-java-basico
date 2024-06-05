@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/aulas.iml" filepath="$PROJECT_DIR$/.idea/aulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/java-anatomia-classes/java-anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-cases/java-cases.iml" filepath="$PROJECT_DIR$/java-cases/java-cases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-controle-fluxo/java-controle-fluxo.iml" filepath="$PROJECT_DIR$/java-controle-fluxo/java-controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-exercicio-metodos/java-exercicio-metodos.iml" filepath="$PROJECT_DIR$/java-exercicio-metodos/java-exercicio-metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/java-terminal/java-terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-tipos-variaveis/java-tipos-variaveis.iml" filepath="$PROJECT_DIR$/java-tipos-variaveis/java-tipos-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml" filepath="$PROJECT_DIR$/meu-primeiro-projeto-java/meu-primeiro-projeto-java.iml" />
+    </modules>
+  </component>
+</project>
